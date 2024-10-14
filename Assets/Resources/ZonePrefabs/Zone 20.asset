@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 997cefe2af364d01bdc0c407f766db25, type: 3}
+  m_Name: Zone 20
+  m_EditorClassIdentifier: 
+  SpinName: SILVER SPIN
+  MainObject: {fileID: 21300000, guid: 8583746210ced7046a17c8b5c746f697, type: 3}
+  SpinIndicator: {fileID: 21300000, guid: d6b71d41bfd344e41a4180a566a9af21, type: 3}
+  WheelSlicesData:
+  - spriteObject: {fileID: 21300000, guid: 6daa36b6b742e0d4aa25031973c05879, type: 3}
+    sliceName: SILVER CHEST
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: x1 SILVER CHEST
+  - spriteObject: {fileID: 21300000, guid: 8fbc6f54cff459b4a952d498a72fdaf8, type: 3}
+    sliceName: HEALTHSHOT
+    isBomb: 0
+    rewardPoints: 3
+    rewardedText: x3 HEALTSHOT!
+  - spriteObject: {fileID: 21300000, guid: fc1e24cc4d4e2df42a80da23def8fbde, type: 3}
+    sliceName: BAYONET2
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: BAYONET!!
+  - spriteObject: {fileID: 21300000, guid: 31aa6e7c21fbfa74e9d0f2741ebbb2c7, type: 3}
+    sliceName: "B\u0130G"
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: "x1 B\u0130G CHEST!"
+  - spriteObject: {fileID: 21300000, guid: 0b178e75e3a2dca49b2078279332cad6, type: 3}
+    sliceName: GOLD
+    isBomb: 0
+    rewardPoints: 100
+    rewardedText: x100 GOLD
+  - spriteObject: {fileID: 21300000, guid: 9a414d93be7ff5347b1633ba233457a7, type: 3}
+    sliceName: SHOTGUN
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: SHOTGUN
+  - spriteObject: {fileID: 21300000, guid: 78fcd1b61c9ee77408f6e6790ee3128e, type: 3}
+    sliceName: MONEY
+    isBomb: 0
+    rewardPoints: 1000
+    rewardedText: x1000 MONEY
+  - spriteObject: {fileID: 21300000, guid: e2c7822cdf1a49d4b9db9ee479b5ba06, type: 3}
+    sliceName: BASEBALL CAP
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: x1 BASEBALL CAP

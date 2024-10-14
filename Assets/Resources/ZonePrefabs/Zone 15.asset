@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 997cefe2af364d01bdc0c407f766db25, type: 3}
+  m_Name: Zone 15
+  m_EditorClassIdentifier: 
+  SpinName: SILVER SPIN
+  MainObject: {fileID: 21300000, guid: 8583746210ced7046a17c8b5c746f697, type: 3}
+  SpinIndicator: {fileID: 21300000, guid: d6b71d41bfd344e41a4180a566a9af21, type: 3}
+  WheelSlicesData:
+  - spriteObject: {fileID: 21300000, guid: 6daa36b6b742e0d4aa25031973c05879, type: 3}
+    sliceName: SILVER CHEST
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: x1 SILVER CHEST
+  - spriteObject: {fileID: 21300000, guid: 78fcd1b61c9ee77408f6e6790ee3128e, type: 3}
+    sliceName: MONEY
+    isBomb: 0
+    rewardPoints: 300
+    rewardedText: x300 MONEY
+  - spriteObject: {fileID: 21300000, guid: f9956ba2778f3a943b6a0620aacc105c, type: 3}
+    sliceName: ARMOR
+    isBomb: 0
+    rewardPoints: 10
+    rewardedText: X10 ARMOR
+  - spriteObject: {fileID: 21300000, guid: fc1e24cc4d4e2df42a80da23def8fbde, type: 3}
+    sliceName: BAYONET2
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: BAYONET!!!
+  - spriteObject: {fileID: 21300000, guid: 78fcd1b61c9ee77408f6e6790ee3128e, type: 3}
+    sliceName: MONEY
+    isBomb: 0
+    rewardPoints: 1000
+    rewardedText: x1000 MONEY
+  - spriteObject: {fileID: 21300000, guid: 0b178e75e3a2dca49b2078279332cad6, type: 3}
+    sliceName: GOLD
+    isBomb: 0
+    rewardPoints: 50
+    rewardedText: x50 GOLD
+  - spriteObject: {fileID: 21300000, guid: f3e410644a82c35409da0db29771c3f6, type: 3}
+    sliceName: GLASSES
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: x1 GLASSES!
+  - spriteObject: {fileID: 21300000, guid: 9a414d93be7ff5347b1633ba233457a7, type: 3}
+    sliceName: SHOTGUN
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: x1 SHOTGUN

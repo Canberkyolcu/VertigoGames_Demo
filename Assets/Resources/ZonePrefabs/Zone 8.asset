@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 997cefe2af364d01bdc0c407f766db25, type: 3}
+  m_Name: Zone 8
+  m_EditorClassIdentifier: 
+  SpinName: BRONZ SPIN
+  MainObject: {fileID: 21300000, guid: 030097d291639f246b7d66926f99a12d, type: 3}
+  SpinIndicator: {fileID: 21300000, guid: f183b04bc13eb2740a52895d1cc97326, type: 3}
+  WheelSlicesData:
+  - spriteObject: {fileID: 21300000, guid: 13e5c45474aa1ef488e34ec2eb779d4f, type: 3}
+    sliceName: BOMB
+    isBomb: 1
+    rewardPoints: 0
+    rewardedText: OH NO, BOMB
+  - spriteObject: {fileID: 21300000, guid: 78fcd1b61c9ee77408f6e6790ee3128e, type: 3}
+    sliceName: MONEY
+    isBomb: 0
+    rewardPoints: 711
+    rewardedText: x711 Money!
+  - spriteObject: {fileID: 21300000, guid: 6daa36b6b742e0d4aa25031973c05879, type: 3}
+    sliceName: SILVER
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: x1 SILVER CHEST!
+  - spriteObject: {fileID: 21300000, guid: f3e410644a82c35409da0db29771c3f6, type: 3}
+    sliceName: GLASS
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: x1 GLASSES!
+  - spriteObject: {fileID: 21300000, guid: 9f4894b4ddcd3bb4496e248683da0881, type: 3}
+    sliceName: SUPER
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: x1 SUPER CHEST!
+  - spriteObject: {fileID: 21300000, guid: 3fd4343ac5ee54f4f82485addf530391, type: 3}
+    sliceName: BAYONET
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: BAYONET!!!
+  - spriteObject: {fileID: 21300000, guid: 0b178e75e3a2dca49b2078279332cad6, type: 3}
+    sliceName: GOLD
+    isBomb: 0
+    rewardPoints: 19
+    rewardedText: 19x GOLD!!!
+  - spriteObject: {fileID: 21300000, guid: 78fcd1b61c9ee77408f6e6790ee3128e, type: 3}
+    sliceName: MONEY
+    isBomb: 0
+    rewardPoints: 700
+    rewardedText: x700 MONEY!

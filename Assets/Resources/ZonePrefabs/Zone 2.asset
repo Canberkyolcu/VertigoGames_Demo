@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 997cefe2af364d01bdc0c407f766db25, type: 3}
+  m_Name: Zone 2
+  m_EditorClassIdentifier: 
+  SpinName: BRONZ SPIN
+  MainObject: {fileID: 21300000, guid: 030097d291639f246b7d66926f99a12d, type: 3}
+  SpinIndicator: {fileID: 21300000, guid: f183b04bc13eb2740a52895d1cc97326, type: 3}
+  WheelSlicesData:
+  - spriteObject: {fileID: 21300000, guid: 6daa36b6b742e0d4aa25031973c05879, type: 3}
+    sliceName: 'SILVER '
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: SILVER CHEST!
+  - spriteObject: {fileID: 21300000, guid: 78fcd1b61c9ee77408f6e6790ee3128e, type: 3}
+    sliceName: MONEY
+    isBomb: 0
+    rewardPoints: 300
+    rewardedText: x300 MONEY!
+  - spriteObject: {fileID: 21300000, guid: bf20dbe5737db4944836609086981c06, type: 3}
+    sliceName: "P\u0130STOL"
+    isBomb: 0
+    rewardPoints: 10
+    rewardedText: x10 ARMOR!
+  - spriteObject: {fileID: 21300000, guid: 78fcd1b61c9ee77408f6e6790ee3128e, type: 3}
+    sliceName: MONEY
+    isBomb: 0
+    rewardPoints: 351
+    rewardedText: x351 MONEY!
+  - spriteObject: {fileID: 21300000, guid: 0b178e75e3a2dca49b2078279332cad6, type: 3}
+    sliceName: GOLD
+    isBomb: 0
+    rewardPoints: 12
+    rewardedText: x12 GOLD!
+  - spriteObject: {fileID: 21300000, guid: 13e5c45474aa1ef488e34ec2eb779d4f, type: 3}
+    sliceName: BOMB
+    isBomb: 1
+    rewardPoints: 0
+    rewardedText: OH NO, BOMB!
+  - spriteObject: {fileID: 21300000, guid: e2c7822cdf1a49d4b9db9ee479b5ba06, type: 3}
+    sliceName: BASEBALL CAP
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: BASEBALL CAP!
+  - spriteObject: {fileID: 21300000, guid: 8fbc6f54cff459b4a952d498a72fdaf8, type: 3}
+    sliceName: HEALTH
+    isBomb: 0
+    rewardPoints: 1
+    rewardedText: x1 HEALTH!
